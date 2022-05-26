@@ -13,6 +13,7 @@ public class Solution {
 		String str="Pasword@01";
 		checkPassword(str);
 		checkparenthesis("}{}strp}{}{}");
+		
 	}
 	
 	private static void checkparenthesis(String string) {
